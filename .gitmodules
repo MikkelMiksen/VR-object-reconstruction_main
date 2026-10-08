@@ -1,0 +1,6 @@
+[submodule "unity"]
+	path = unity
+	url = https://github.com/MikkelMiksen/MED5VR-MESHING.git
+[submodule "python-server-part"]
+	path = python-server-part
+	url = https://github.com/MikkelMiksen/python-server-part.git
